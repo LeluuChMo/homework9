@@ -9,10 +9,37 @@
 body {
     background-color: #f7f7f7;
     width: 1440px;
+    padding-top: 90px;
+    padding-left: 180px;
+    padding-right: 180px;
 }
 h1 {
     font-family: groteqsue, sans-serif;
     width: 135px;
     height: 36px;
     letter-spacing: 5px;
+}
+.main-paragraph {
+    font-family: tisa-ot, sans-serif;
+    width: 558px;
+    height: 18px;
+    font: normal normal normal 18px/33px Tisa OT;
+    letter-spacing: 0px;
+    color: #434343;
+    margin-top: 65px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 153px;
+    
+}
+.box {
+    background-color: #0865de;
+    width: 315px;
+    height: 147px;
+    box-shadow: 0px 4px 6px #00000029;
+    border-radius: 3px;
+    opacity: 1;
+    
 }

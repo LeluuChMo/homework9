@@ -1,6 +1,10 @@
 @font-face {
     font-family: 'grotesque';
     src: url(fonts/HvDTrial_Brandon_Grotesque_bold-BF64a625c9151d5.otf) format('otf');
+    @font-face {
+        font-family: 'tisa-ot';
+        src: url(fonts/tisaot-regular.ttf) format('ttf');
+    }
 }
 body {
     background-color: #f7f7f7;
